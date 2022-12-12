@@ -3,6 +3,6 @@
 def greeting():
     ''' This will print hello world on 1 line, that all'''
     print('Hello, World!')
-    return help(greeting)
+    #return help(greeting)
 
 print(greeting())
